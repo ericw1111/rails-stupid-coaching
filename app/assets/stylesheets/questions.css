@@ -1,0 +1,10 @@
+.question {
+  border-left: solid 5px gray;
+  padding: 10px 20px;
+  max-width: 100%;
+  margin: 20px;
+}
+
+.answer {
+  background-color: #FEFFE1;
+}
